@@ -1,0 +1,7 @@
+{
+  "name": "AI Meme Generator v2",
+  "description": "Create hilarious memes in seconds. Upload an image or use a template, and let AI generate clever captions for you. You can also edit images with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
